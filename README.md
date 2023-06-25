@@ -31,7 +31,7 @@ IMG = Image.open('flower.jpg')
 IMG_CLUSTER(2, IMG)
 ```
 Run the code and observe the original and clustered images displayed.
-![Example Image](flower.png)
+![Example Image](./flower.png)
 ## Results
 The project uses the K-Means algorithm to cluster an image into the specified number of clusters. The resulting image shows the original image and the clustered image side by side, allowing you to compare the differences in color clustering.
 
